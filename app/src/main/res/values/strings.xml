@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UnionFind</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_a_number_from_0_to_20">Type a number, from 0 to 20</string>
+    <string name="see_connections">See connections</string>
+    <string name="add">add</string>
+    <string name="first_node">First node</string>
+    <string name="second_node">Second node</string>
+    <string name="check_connection">CHECK CONNECTION</string>
+    <string name="INFO">Tap on input text fields to reset and enter another pair of nodes</string>
+    <string name="back">back</string>
+    <string name="add_more">ADD MORE</string>
+    <string name="add_connection">Add connection</string>
+    <string name="add_con">ADD CONNECTION</string>
+</resources>
